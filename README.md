@@ -7,3 +7,7 @@
 - DP (C, Python)
 
 - KMU Algolab (C++)
+
+- SCPC (C)
+
+- Kakao Coding test (python)
