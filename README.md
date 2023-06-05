@@ -1,22 +1,13 @@
-# Algorithm
-<h2>[백준 알고리즘 문제풀이]</h2>
+# Descript solved algorithm
+<h2>[알고리즘 문제풀이]</h2>
 <br>
 
-<h3>22-02-23</h3>
+- Greedy (Python)
 
-**[단계별로 풀어보기]**
+- DP (C, Python)
 
-- print
-- if
-- for
-- while
+- KMU Algolab (C++)
 
+- SCPC (C)
 
-
-**[22-05-04]**
-
-- 그리디 알고리즘 11399
-
-**[22-05-05]**
-
-- 그리디 알고리즘 11047
+- Kakao Coding test (python)
