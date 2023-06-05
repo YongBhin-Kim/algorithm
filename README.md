@@ -2,12 +2,14 @@
 <h2>[알고리즘 문제풀이]</h2>
 <br>
 
-- Greedy (Python)
+- Baekjoon Greedy (Python)
 
-- DP (C, Python)
+- Baekjoon DP (C, Python)
 
-- KMU Algolab (C++)
+- 2023 KMU Algolab (C++)
 
-- SCPC (C)
+- 2022 SCPC (C)
 
-- Kakao Coding test (python)
+- 2021 Kakao Coding Test (python)
+
+- 2022 KMU Coding Test
