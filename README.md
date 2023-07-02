@@ -2,8 +2,10 @@
 <h2>[알고리즘 문제풀이]</h2>
 <br>
 
+**Language `C++, Python3, Java`**
 
-- Baekjoon Greedy (Python)
+
+- Baekjoon Greedy (Python, C++)
 
 - Baekjoon DP (C, Python)
 
