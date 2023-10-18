@@ -22,3 +22,5 @@ int main() {
     }
     return 0;
 }
+
+dp[i] = dp[i-1]
