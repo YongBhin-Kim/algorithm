@@ -1,4 +1,4 @@
-// 백준 2437. 저울(골1) 23.06.28
+// 백준 2437. 저울(골2) 23.06.28
 
 #include <iostream>
 #include <algorithm>
