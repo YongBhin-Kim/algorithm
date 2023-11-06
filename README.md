@@ -5,7 +5,7 @@
 **Language `C++, Python3`**
 
 
-- Baekjoon (C++, Python, C)
+- Baekjoon (C/C++, Python)
 
 - 2023 KMU Algolab (C++)
 
